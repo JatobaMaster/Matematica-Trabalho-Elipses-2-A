@@ -1,4 +1,3 @@
-from turtle import left
 from manim import *
 
 class Capa(Scene):
